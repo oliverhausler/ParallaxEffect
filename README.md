@@ -1,2 +1,2 @@
-# Parallax
-Parallax
+# ParallaxEffect
+https://vlberezovsky.github.io/ParallaxEffect/
